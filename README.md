@@ -4,7 +4,10 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://mohamed-ali-ayadi.vercel.app/)
 
-It is clone like ChatGPT but it is cool to be only for you and also coustom 
+### It is clone like ChatGPT but it is cool to be only for you and also custom 
+
+![Screenshot](./screenshot/screenshot-1.png)
+![Screenshot](./screenshot/screenshot-2.png)
 
 
 ## How to use
